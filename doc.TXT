@@ -1,0 +1,2 @@
+Natural Language Processing (NLP) is a field at the intersection of computer science, artificial intelligence, and linguistics. The goal is for computers to process or “understand” natural language in order to perform tasks like Language Translation and Question Answering.
+With the rise of voice interfaces and chatbots, NLP is one of the most important technologies of the information age a crucial part of artificial intelligence. Fully understanding and representing the meaning of language is an extremely difficult goal. Why? Because human language is quite special.
